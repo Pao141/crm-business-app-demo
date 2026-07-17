@@ -42,4 +42,5 @@ CRM Consultant | Power Platform | Java Backend Developer
 Interactive CRM business application demo showcasing customer management and digital process solutions.
 ## 📸 Preview
 
-![CRM Demo Preview](screenshot.png)
+![CRM Demo Preview](<img width="1915" height="968" alt="screenshot png" src="https://github.com/user-attachments/assets/13287f89-d285-4325-9a03-db49e4ea9149" />
+)
