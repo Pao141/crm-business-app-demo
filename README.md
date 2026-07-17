@@ -39,5 +39,6 @@ CRM Consultant | Power Platform | Java Backend Developer
 
 #CRM #PowerPlatform #Automation #DigitalTransformation
 # crm-business-app-demo
-Interactive CRM business application demo showcasing customer management and digital process solutions.
-![CRM Demo](screenshot.png)
+## 📸 Preview
+
+![CRM Business App Demo](screenshot.png)
